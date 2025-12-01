@@ -8,7 +8,7 @@
 " align="center">
 
 <!-- MAIN HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=B222FF&center=true&vCenter=true&width=800&height=120&lines=X3F;Developer;Python+Wizard;C%2B%2B+Engineer;Automation+Specialist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=B222FF&center=true&vCenter=true&width=800&height=120&lines=X3F" />
 
 <!-- SUB HEADER -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=800&color=8F48FF&center=true&vCenter=true&width=620&lines=Professional+Vibe+Coder;Ex-HvHer;Dark-Tech+Enthusiast;High+IQ+Automation" />
@@ -20,7 +20,7 @@
 
 # 🔥 **About Me**
 <p align="center">
-Professional Vibe Coder since 2022
+Scottish Media Lover.
 </p>
 
 <br>
