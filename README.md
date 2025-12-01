@@ -20,8 +20,7 @@
 
 # 🔥 **About Me**
 <p align="center">
-I build automation tools, exploit systems, write clean high-efficiency code,  
-and design software with speed, precision, and zero bullshit.  
+Professional Vibe Coder since 2022
 </p>
 
 <br>
@@ -62,16 +61,6 @@ and design software with speed, precision, and zero bullshit.
 
 <br>
 
-# 📊 **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=X3F&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=b222ff" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=X3F&theme=midnight-purple&hide_border=true&ring=b222ff&fire=b222ff&currStreakLabel=b222ff" height="170" />
-
-<br><br>
-
-# 📈 **Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=X3F&bg_color=0d0d0d&color=b222ff&line=8f2bff&point=ffffff&area=true&hide_border=true" />
-
-<br>
 
 # 🛡️ **Badges**
 <img src="https://img.shields.io/badge/Developer-%F0%9F%92%BB-purple?style=for-the-badge&color=b222ff" />
